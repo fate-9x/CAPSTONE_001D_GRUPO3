@@ -5,6 +5,7 @@ Este repositorio contiene la documentación de evidencias del proyecto, organiza
 ## Estructura de Carpetas
 
 La estructura de carpetas es la siguiente:
+```plaintext
 /
 ├── Fase_1/
 │   ├── Evidencias_Grupales/
@@ -25,7 +26,7 @@ La estructura de carpetas es la siguiente:
         ├── Matias_Ruiz/
         ├── Jorge_Ñancupil/
         └── Luis_Lagos/
-
+```
 
 ## Instrucciones para Subir Archivos
 
@@ -47,4 +48,3 @@ La estructura de carpetas es la siguiente:
 
 - Asegúrate de colocar cada archivo en la carpeta correcta según la fase y tipo de evidencia.
 - En la carpeta `Evidencias_Proyecto` de la fase_2, guarda solo los documentos relacionados con el desarrollo del proyecto en general.
-
