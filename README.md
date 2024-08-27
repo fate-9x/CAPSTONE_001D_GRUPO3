@@ -13,13 +13,17 @@ La estructura de carpetas es la siguiente:
 │       ├── Matias_Ruiz/
 │       ├── Jorge_Ñancupil/
 │       └── Luis_Lagos/
+│
+│
 ├── Fase_2/
 │   ├── Evidencias_Grupales/
 │   ├── Evidencias_Individuales/
-│       ├── Matias_Ruiz/
-│       ├── Jorge_Ñancupil/
-│       └── Luis_Lagos/
+│   │   ├── Matias_Ruiz/
+│   │   ├── Jorge_Ñancupil/
+│   │   └── Luis_Lagos/
 │   └── Evidencias_Proyecto/
+│
+│
 └── Fase_3/
     ├── Evidencias_Grupales/
     └── Evidencias_Individuales/
