@@ -11,27 +11,18 @@ La estructura de carpetas es la siguiente:
 /
 ├── Fase_1/
 │   ├── Evidencias_Grupales/
-│   └── Evidencias_Individuales/
-│       ├── Matias_Ruiz/
-│       ├── Jorge_Ñancupil/
-│       └── Luis_Lagos/
+│   └── Evidencias_Individua
 │
 │
 ├── Fase_2/
 │   ├── Evidencias_Grupales/
 │   ├── Evidencias_Individuales/
-│   │   ├── Matias_Ruiz/
-│   │   ├── Jorge_Ñancupil/
-│   │   └── Luis_Lagos/
 │   └── Evidencias_Proyecto/
 │
 │
 └── Fase_3/
     ├── Evidencias_Grupales/
-    └── Evidencias_Individuales/
-        ├── Matias_Ruiz/
-        ├── Jorge_Ñancupil/
-        └── Luis_Lagos/
+    └── Evidencias_Individual
 ```
 
 ## Instrucciones para Subir Archivos
