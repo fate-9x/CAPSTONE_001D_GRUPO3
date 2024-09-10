@@ -2,6 +2,8 @@
 
 Este repositorio contiene la documentación de evidencias del proyecto, organizada en tres fases: `fase_1`, `fase_2` y `fase_3`. Cada fase tiene subcarpetas dedicadas a evidencias grupales e individuales.
 
+![Archivos necesarios](images_readme/archivosnecesarios.png)
+
 ## Estructura de Carpetas
 
 La estructura de carpetas es la siguiente:
